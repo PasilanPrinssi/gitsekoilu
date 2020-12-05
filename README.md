@@ -1,3 +1,3 @@
 ## Tähän voi laittaa mitä tietoja kukin haluaa
 
-TErvetuloa opettelemaan gitin käyttöä siis
+Tervetuloa opettelemaan gitin käyttöä siis
